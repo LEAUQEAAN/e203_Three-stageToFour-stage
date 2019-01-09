@@ -1,5 +1,11 @@
 # e203_Three-stageToFour-stage
 蜂鸟E200开源处理器核心
+
+![Image text](https://github.com/LEAUQEAAN/e203_Three-stageToFour-stage/blob/master/3_4.png)
+
+![Image text](https://github.com/LEAUQEAAN/e203_Three-stageToFour-stage/blob/master/3_4_pro.png)
+
+
 三级流水转化为四级流水步骤：
 *   从EXU抽取出WBCK模块
 *   给WBCK模块添加的时钟
